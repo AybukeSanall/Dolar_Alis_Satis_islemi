@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\BolVeFethet\BolVeFethet\bin\Debug\BolVeFethet.exe.config
+C:\Users\LENOVO\source\repos\BolVeFethet\BolVeFethet\bin\Debug\BolVeFethet.exe
+C:\Users\LENOVO\source\repos\BolVeFethet\BolVeFethet\bin\Debug\BolVeFethet.pdb
+C:\Users\LENOVO\source\repos\BolVeFethet\BolVeFethet\obj\Debug\BolVeFethet.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\BolVeFethet\BolVeFethet\obj\Debug\BolVeFethet.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BolVeFethet\BolVeFethet\obj\Debug\BolVeFethet.exe
+C:\Users\LENOVO\source\repos\BolVeFethet\BolVeFethet\obj\Debug\BolVeFethet.pdb
+P:\BolVeFethet\BolVeFethet\bin\Debug\BolVeFethet.exe.config
+P:\BolVeFethet\BolVeFethet\bin\Debug\BolVeFethet.exe
+P:\BolVeFethet\BolVeFethet\bin\Debug\BolVeFethet.pdb
+P:\BolVeFethet\BolVeFethet\obj\Debug\BolVeFethet.csproj.AssemblyReference.cache
+P:\BolVeFethet\BolVeFethet\obj\Debug\BolVeFethet.csproj.SuggestedBindingRedirects.cache
+P:\BolVeFethet\BolVeFethet\obj\Debug\BolVeFethet.csproj.CoreCompileInputs.cache
+P:\BolVeFethet\BolVeFethet\obj\Debug\BolVeFethet.exe
+P:\BolVeFethet\BolVeFethet\obj\Debug\BolVeFethet.pdb
